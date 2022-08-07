@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Manav Surti
 - 👀 I’m interested in Cyber Security , Devlopment ...
-- 🌱 I’m currently learning & practicing Cyber securtiy 
+- 🌱 I’m currently learning & practicing Cyber securtiy && Full stack Web-Development  
 - 💞️ I’m looking to write a Research paper
 - 📫 You can reach me at manavsurti2451@gmail.com
 
